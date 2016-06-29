@@ -1,0 +1,10 @@
+[   34.446643] Bluetooth: RFCOMM socket layer initialized
+[   34.446654] Bluetooth: RFCOMM ver 1.11
+[   34.857028] vboxdrv: module verification failed: signature and/or required key missing - tainting kernel
+[   34.867217] vboxdrv: Found 2 processor cores
+[   34.888681] vboxdrv: TSC mode is Invariant, tentative frequency 1599947984 Hz
+[   34.888687] vboxdrv: Successfully loaded version 5.0.18_Ubuntu (interface 0x00240000)
+[   34.941034] VBoxNetFlt: Successfully started.
+[   34.958751] VBoxNetAdp: Successfully started.
+[   34.976168] VBoxPciLinuxInit
+[   34.987231] vboxpci: IOMMU not found (not registered)
